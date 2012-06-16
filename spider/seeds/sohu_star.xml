@@ -1,0 +1,8 @@
+<seeds>
+    <seed>
+        <url>http://data.yule.sohu.com/star/list/assemble------w--1.html</url>
+        <stage>star_list</stage>
+        <context></context>
+        <update_time_interval>864000</update_time_interval>
+    </seed>
+</seeds>

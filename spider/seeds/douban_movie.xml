@@ -1,0 +1,10 @@
+<seeds>
+    <seed>
+        <url>http://movie.douban.com/tag/?view=type</url>
+        <stage>tag_list</stage>
+        <context>
+            <tag>tagging_all</tag>
+        </context>
+        <update_time_interval>864000</update_time_interval>
+    </seed>
+</seeds>

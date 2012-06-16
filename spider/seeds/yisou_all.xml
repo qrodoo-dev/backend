@@ -1,0 +1,10 @@
+<seeds>
+    <seed>
+        <url>http://dianying.yisou.com</url>
+        <stage>movie_index</stage>
+        <context>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+</seeds>

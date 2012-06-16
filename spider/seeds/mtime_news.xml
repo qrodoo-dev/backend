@@ -1,0 +1,89 @@
+<seeds>
+    <seed>
+        <url>http://news.mtime.com/movie/1/</url>
+        <stage>index</stage>
+        <context>
+            <category>movie</category> 
+            <group>华语</group> 
+            <page_num type="int">1</page_num>
+            <url_prefix>http://news.mtime.com/movie/1/</url_prefix>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://news.mtime.com/movie/2/</url>
+        <stage>index</stage>
+        <context>
+            <category>movie</category> 
+            <group>欧美</group> 
+            <page_num type="int">1</page_num>
+            <url_prefix>http://news.mtime.com/movie/2/</url_prefix>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://news.mtime.com/movie/3/</url>
+        <stage>index</stage>
+        <context>
+            <category>movie</category> 
+            <group>日韩</group> 
+            <page_num type="int">1</page_num>
+            <url_prefix>http://news.mtime.com/movie/3/</url_prefix>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://news.mtime.com/movie/4/</url>
+        <stage>index</stage>
+        <context>
+            <category>movie</category> 
+            <group>产业&其他</group> 
+            <page_num type="int">1</page_num>
+            <url_prefix>http://news.mtime.com/movie/4/</url_prefix>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://news.mtime.com/people/1/</url>
+        <stage>index</stage>
+        <context>
+            <category>people</category> 
+            <group>华语</group> 
+            <page_num type="int">1</page_num>
+            <url_prefix>http://news.mtime.com/people/1/</url_prefix>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://news.mtime.com/people/2/</url>
+        <stage>index</stage>
+        <context>
+            <category>people</category> 
+            <group>欧美</group> 
+            <page_num type="int">1</page_num>
+            <url_prefix>http://news.mtime.com/people/2/</url_prefix>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://news.mtime.com/people/3/</url>
+        <stage>index</stage>
+        <context>
+            <category>people</category> 
+            <group>日韩</group> 
+            <page_num type="int">1</page_num>
+            <url_prefix>http://news.mtime.com/people/3/</url_prefix>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://news.mtime.com/people/4/</url>
+        <stage>index</stage>
+        <context>
+            <category>people</category> 
+            <group>其他</group> 
+            <page_num type="int">1</page_num>
+            <url_prefix>http://news.mtime.com/people/4/</url_prefix>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+</seeds>

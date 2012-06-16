@@ -1,0 +1,12 @@
+<connection>
+    <host>localhost</host>
+    <port>27017</port>
+<!--<user></user>
+    <password></password>  -->
+</connection>
+<doc_raw_database>qrodoo_doc_raw_test</doc_raw_database>
+<data_raw_database>qrodoo_data_raw_test</data_raw_database>
+<data_clean_database>qrodoo_data_clean_test</data_clean_database>
+<parse_retry_limit>3</parse_retry_limit>
+<image_index_database>qrodoo_image_index</image_index_database>
+<image_store_path>/home/stxiong/workspace/test_images</image_store_path>

@@ -1,0 +1,191 @@
+<seeds>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/staryj/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>staryj</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/starfw/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>starfw</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/starcs/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>starcs</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/stargz/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>stargz</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/starjf/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>starjf</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/starmt/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>starmt</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/stardzb/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>stardzb</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/movie_cn/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>movie_cn</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/movie_intl/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>movie_intl</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/movie_focus/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>movie_focus</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/movie_reying/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>movie_reying</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/movie_people/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>movie_people</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/movie_comment/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>movie_comment</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/direct_interview/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>direct_interview</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/movie_yejie/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>movie_yejie</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/tvdomestic/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>tvdomestic</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/tvhaiwaijuchang/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>tvhaiwaijuchang</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/tvzongyi/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>tvzongyi</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/tvyejie/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>tvyejie</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/musicchinese/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>musicchinese</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+    <seed>
+        <url>http://ent.cn.yahoo.com/event/musicworld/index.html?page=1</url>
+        <stage>index</stage>
+        <context>
+            <category>musicworld</category>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+</seeds>
