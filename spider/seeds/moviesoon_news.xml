@@ -1,0 +1,10 @@
+<seeds>
+    <seed>
+        <url>http://moviesoon.com/news/</url>
+        <stage>index</stage>
+        <context>
+            <page_num type="int">1</page_num>
+        </context>
+        <update_time_interval>86400</update_time_interval>
+    </seed>
+</seeds>
