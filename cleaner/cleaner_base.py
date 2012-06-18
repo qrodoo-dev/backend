@@ -3,17 +3,23 @@ Created on Jun 10, 2012
 
 @author: jasonz
 '''
-
+from bs4 import BeautifulSoup
 from common.data_raw_adapter import DataRawAdapter
 from common.data_clean_adapter import DataCleanAdapter
 from common.data_raw_adapter import DataRawStatus
 from common.logger import Logger
 
+class SchemaField:
+    def __init__(self):
+        self.name = ""
+        self.type = None
+        self.required = False
+
 class CleanerBase:
     '''
     classdocs
     '''
-    def __init__(self, data_adapter_config_path, source_name, clean_try_limit=3):
+    def __init__(self, data_adapter_config_path, source_name, schema_file):
         '''
         Constructord
         '''
@@ -21,7 +27,20 @@ class CleanerBase:
         self.data_raw_adapter = DataRawAdapter(data_adapter_config_path, source_name, self.logger)
         self.data_clean_adapter = DataCleanAdapter(data_adapter_config_path, source_name, self.logger)
         self.source_name = source_name
-        self.clean_try_limit = clean_try_limit
+        self.get_schema(schema_file)
+        
+    def get_schema(self, schema_file):
+        f = open(schema_file)
+        schema = BeautifulSoup(f.read())
+        f.close()
+        self.required_fields = []
+        self.optional_fields = []
+        for field in schema.findAll("field"):
+            schema_field = SchemaField()
+            schema_field.name = field
+        
+        
+        pass
 
     def clean(self, url_hash, url, features, images):
         pass

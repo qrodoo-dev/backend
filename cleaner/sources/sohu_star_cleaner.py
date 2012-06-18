@@ -20,7 +20,8 @@ class SohuStarCleaner(CleanerBase):
         '''
         Constructor
         '''
-        CleanerBase.__init__(self, data_adapter_config_path, "sohu_star", clean_try_limit)
+        CleanerBase.__init__(self, data_adapter_config_path, "sohu_star", "../schema/people.xml")
+        get_schema()
 
 
     def clean_star_page(self, url_hash, url, features, images):
